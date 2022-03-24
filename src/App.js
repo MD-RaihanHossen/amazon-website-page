@@ -1,6 +1,6 @@
 import './App.css';
-import Header from './components/Header/Header';
-import Shop from './components/Shop/Shop';
+import Header from './components/Header-01/Header';
+import Shop from './components/Shop-02/Shop';
 
 function App() {
   return (
